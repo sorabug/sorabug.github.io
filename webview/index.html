@@ -145,55 +145,63 @@
         <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
             <figure class="animate-box">
                 
-                    <img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo@master/img/hello-gridea.png" alt="Hello Gridea" class="img-responsive">
+                    <img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo@master/img/%E5%B9%B2%E6%8E%89%E6%B7%98%E5%AE%9D%E5%92%8CQQ%E8%87%AA%E5%B8%A6WebView%E6%A0%B8%E5%BF%83.jpeg" alt="干掉淘宝和QQ自带WebView核心" class="img-responsive">
                 
             </figure>
             <span class="fh5co-meta animate-box">
                 
-                    <div class="tag-container">
-                        
-                            <a href="https://sorabug.github.io/ycngEu1mB/" class="tag">Gridea, </a>
-                        
-                    </div>
-                
             </span>
-            <h2 class="fh5co-article-title animate-box">Hello Gridea</h2>
+            <h2 class="fh5co-article-title animate-box">干掉淘宝和QQ自带WebView核心</h2>
             <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
-                <li>2018-12-12</li>
-                <li>298字</li>
+                <li>2020-01-20</li>
+                <li>458字</li>
                 <li>2 min read</li>
             </ol>
 
             <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
                 <div class="row">
                     <div class="col-md-12 animate-box post-content">
-                        <p> <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+                        <p> <h2 id="引言">引言</h2>
+<p>阿里系的应用因为其臃肿卡顿饱受诟病，究其症结，淘宝、支付宝、闲鱼等阿里系应用都大量应用了WebView<br>
+提到WebView，其在安卓中的应用还是非常广泛的。提到阿里的WebView，就不得不提到UC，UC浏览器在塞班系统上表现无敌，然而在Android上表现平平，在加入阿里系之后完全跻身“毒瘤”行列。<br>
+淘宝、闲鱼、支付宝为什么这么大？在查看data文件夹后不难发现它们都内置了一个30M的UC WebView组件，这个组件相对于目前主流手机的Android Webv（MIUI10系统WebView已经基于Chrome 62），表现是比较差的<br>
+让这些软件直接调用系统WebView，能够降低RAM占用，同时提供更好的浏览体验</p>
+<h2 id="操作">操作</h2>
+<p>以下操作需要获取Root权限</p>
+<h2 id="淘宝uc核心路径">淘宝UC核心路径</h2>
+<pre><code>/data/data/com.taobao.taobao/app_ucmsdk/updates/(数字)/(数字)/lib/libwebviewuc.so
+</code></pre>
+<h2 id="闲鱼uc核心路径">闲鱼UC核心路径</h2>
+<pre><code>/data/data/com.taobao.idlefish/app_ucmsdk/updates/(数字)/(数字)/lib/libwebviewuc.so
+</code></pre>
+<p>以上两者直接删除30M的libwebviewuc.so既可</p>
+<h2 id="支付宝uc核心路径">支付宝UC核心路径</h2>
+<pre><code>/data/data/com.eg.android.AlipayGphone/app_h
+</code></pre>
+<p>将该文件夹权限设置为000（去掉所有权限的勾），然后删除该文件夹下所有文件既可<br>
+腾讯系应用<br>
+对于腾讯系的应用（QQ\微信）其采用的是QQ浏览器X5内核，基于Chrome 57，如果你的手机WebView版本更高，可以考虑关闭X5内核<br>
+在QQ/微信中访问 <a href="">http://debugtbs.qq.com</a><br>
+选择右下角禁用内核既可<br>
+结语 内核检测工具<br>
+<a href="">https://ie.icoa.cn/</a><br>
+<a href="">http://liulanmi.com/</a><br>
+禁用软件自带的WebView可能造成部分不兼容的问题，腾讯系重新打开X5内核、阿里重新覆盖安装一次既可</p>
  </p>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-12 animate-box">
+                        
+                            <div class="next-post">
+                                <div class="next">下一篇</div>
+                                <a href="https://sorabug.github.io/2020/">
+                                    <h3 class="post-title">
+                                        写给给即将到来的2020
+                                    </h3>
+                                </a>
+                            </div>
                         
                     </div>
                 </div>
@@ -227,7 +235,11 @@
     <ul class="markdownIt-TOC">
 <li>
 <ul>
-<li><a href="#%E7%89%B9%E6%80%A7">特性👇</a></li>
+<li><a href="#%E5%BC%95%E8%A8%80">引言</a></li>
+<li><a href="#%E6%93%8D%E4%BD%9C">操作</a></li>
+<li><a href="#%E6%B7%98%E5%AE%9Duc%E6%A0%B8%E5%BF%83%E8%B7%AF%E5%BE%84">淘宝UC核心路径</a></li>
+<li><a href="#%E9%97%B2%E9%B1%BCuc%E6%A0%B8%E5%BF%83%E8%B7%AF%E5%BE%84">闲鱼UC核心路径</a></li>
+<li><a href="#%E6%94%AF%E4%BB%98%E5%AE%9Duc%E6%A0%B8%E5%BF%83%E8%B7%AF%E5%BE%84">支付宝UC核心路径</a></li>
 </ul>
 </li>
 </ul>

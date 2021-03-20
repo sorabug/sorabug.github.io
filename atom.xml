@@ -2,44 +2,289 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sorabug.github.io</id>
     <title>Sora的小站</title>
-    <updated>2020-07-09T03:43:51.087Z</updated>
+    <updated>2021-03-20T01:57:03.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sorabug.github.io"/>
     <link rel="self" href="https://sorabug.github.io/atom.xml"/>
     <subtitle>永远相信美好的事情即将发生</subtitle>
     <logo>https://sorabug.github.io/images/avatar.png</logo>
     <icon>https://sorabug.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Sora的小站</rights>
+    <rights>All rights reserved 2021, Sora的小站</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://sorabug.github.io/hello-gridea/</id>
-        <link href="https://sorabug.github.io/hello-gridea/">
+        <title type="html"><![CDATA[2020年年度总结]]></title>
+        <id>https://sorabug.github.io/2020-summed-and-2021-plan/</id>
+        <link href="https://sorabug.github.io/2020-summed-and-2021-plan/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-12-31T15:59:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>似乎2020过得异常的迅速，经历了疫情、高考、大一的迷惘，慌慌张张的到了新的一年</p>
+<pre><code class="language-markdown">&gt;2020年对我来说是一扇门，我相信走完2020年最后一刻，踏过去迎接是全新的未来以及自我！
+</code></pre>
+<h3 id="疫情">疫情</h3>
+<p>2020年新年后就是一个王炸——新冠疫情，到今为止它依然还在肆虐全球人民生命，难以想象死于疫情之下多少人，每天看到冷冰冰的数字，曾经是那火热的身躯，即使在2020年医疗高科技时代，对新型的病情手无缚鸡之力毫无办法，所以人要对未知的事物要充满恐惧之心。</p>
+<p>第二件就是从疫情看出国家抗疫力度和效率，说实话到目前为止，中国依然是全球做得最好的，这让我不得不佩服国家几个月管理十几亿人人口做好疫情防备魄力，再看别的国家简直连抄作业都不会。虽然国内疫情不算严重，不过因为疫情在很多事情依然不方便，希望新年后的疫情能够消失吧！</p>
+<h3 id="高考">高考</h3>
+<p>高考这件事可能是让我最遗憾的一个点，不过这也完全只能怪我自己，浑浑噩噩的度过了高中三年，导致高考成绩很差，最后也决定了我的去向</p>
+<h3 id="大一">大一</h3>
+<p>大一的上半期过得挺迷茫的，一晃眼就快完了，经过了军训（<s>感觉还没我高中时候的军训累，不知道是不是错觉</s>）然后虽然说学校并不满意，但专业还是我喜欢的，就是课程有点蛋疼，有些课讲得太浅了，看来还是得自学（<s>不知道你们的大学是不是也是这样的</s></p>
+<p>还记得刚进入大学，觉得一切都很新鲜，但现在，我觉得也就那样。似乎已经麻痹了，吃只是为了不饿着。想念家里的饭菜。宿舍是四人间，带一阳台，一厕所一洗浴室，挺好，偶尔可以坐在阳台晒晒太阳，思考人生，舍友也蛮不错，虽然每个人都有自己的小毛病，也包括我，但大家都能和睦相处，真诚以待。也遇到了除宿舍以外形形色色的人，大学真是一个小型的社会，里面的人情世故，自己品味。还有就是大学生活并不是之前自己以为的那么轻松，高中有高中的压力，大学有大学的压力，现在就应该筹备以后的方向，不要等到大三了要去实习了，自己还是一种迷惘的状态。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 网易云音乐一键签到/打卡听歌300首]]></title>
+        <id>https://sorabug.github.io/163music/</id>
+        <link href="https://sorabug.github.io/163music/">
+        </link>
+        <updated>2020-11-20T13:46:43.000Z</updated>
+        <content type="html"><![CDATA[<p>DOME:<a href="">163.isorax.xyz</a></p>
+<p>&quot;跨站请求伪造（CSRF），伪造请求头，调用官方API。<br>
+纯网易云官方接口，非第三方接口不需要担心账号泄露风险。<br>
+显示网络错误或签到失败原因可能是php版本太高。&quot;</p>
+<p>下载链接：<a href="">https://pan.baidu.com/s/14G4McR10TwBkD3MPyhGCJA</a> 提取码:b10n</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兜兜转转，终回网易云]]></title>
+        <id>https://sorabug.github.io/back-to-cloudmusic/</id>
+        <link href="https://sorabug.github.io/back-to-cloudmusic/">
+        </link>
+        <updated>2020-08-19T06:54:13.000Z</updated>
+        <content type="html"><![CDATA[<p>用网易云音乐很久了，第一次见到它的时候是在一部特殊的手机上面lumia640，在这部手机上应用很少，听音乐的软件也很少，大多音乐音乐软件都停留在了wp8就不再更新，而网易云音乐确是唯一支持win10 mobile的小清新，那时候的网易云确实够简洁，没有多余的其他功能，老老实实的做一个音乐软件，播放器ui也是只有黑胶唱片，而且那时候网易云音乐评论做得也确实有意思，毕竟这也是当时网易云的卖点，就这样我用到了18年。</p>
+<p>那时候我的主力手机换成了安卓，不知什么软件做得越来越臃肿，所占据的系统资源也越来越多，而版权却变得越来越少，本来最开始没什么影响，我本来就很少听中文歌，普遍听日语ACG，版权基本没什么大问题，但后面没想到日语ACG的版权也在变少，周董的歌也全部下架了</p>
+<p>无奈之下，只好换软件了，就这样我把听歌的软件换成QQ音乐。后面听说有网易云模块，我想着有这玩意了还有什么QQ音乐，我果断回了网易云音乐，还是那个熟悉的黑胶界面，卧槽模块好用啊，版权都回来了，嘿嘿嘿。不过后面随着网易云的更新，UI大变样，越来越臃肿，我还是放弃了她重新回到了QQ音乐的怀抱</p>
+<p>直到几天前我无意之中发现了网易云极速版，据说这是官方上架又下架的极速版，百度查了一下确实有这个版本，卧槽我的青春回来了，没有多余的功能，打开速度很快，不臃肿，没有开屏广告，功能也都正常，我感动得都快哭了</p>
+<p>虽然版权不多，但灰色解锁的方法却还可以用，实在没有的我再用QQ音乐，现在的手机也不像以前的那么卡了，多装一个也没什么，看来很长一段时间我都得用这个极速版，除非将来她不能用了，或者有让我觉得更好的音乐软件我才会换吧，不过现在还能用就行了，管他那么多呢<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo@master/img/%E5%85%9C%E5%85%9C%E8%BD%AC%E8%BD%AC%EF%BC%8C%E7%BB%88%E5%9B%9E%E7%BD%91%E6%98%93%E4%BA%91%E6%8F%92%E5%9B%BE.jpeg" alt="" loading="lazy"><br>
+最后附上网易云极速版链接<a href="">https://pan.baidu.com/s/1ifyCbyz7fSqK_fPGQqMQ8A</a> 提取码:o8z7</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 我为何要从typecho回到WordPress]]></title>
+        <id>https://sorabug.github.io/typecho/</id>
+        <link href="https://sorabug.github.io/typecho/">
+        </link>
+        <updated>2020-05-29T03:43:57.000Z</updated>
+        <content type="html"><![CDATA[<p>前段时间因为听人说WordPress的臃肿于是换了Typecho，可当我换完用了几小时之后我就后悔了，Typecho的缺点太多了，各种的不尽人意——长期不更新的系统配合着短缺且不更新的插件实在难受，但这都不是关键我都能忍，关键是他的写作体验实在是太差了</p>
+<p>总所周知，博客最主要的功能就是写作，而Typecho写作太麻烦了。要是我纯写作还好，但一旦想配图就头疼了，即使我用markdown语法也觉得麻烦，图片必须通过链接的方式，这样一搞我就得把图片上传到图床上，可是我如果用公共图床我又怕随时挂掉，可是私人的呢……作为一个敏感型消费者，算了告辞。什么？你说还可以用jsDelivr➕git自己搭，嗯……我平时用手机码字你这样搞我很麻烦啊凡此种种，令人头疼。故我又回到了了WordPress的怀抱（还好之前有备份），至于网上有人说臃肿嘛，嗯……个人博客无所谓了</p>
+<p>总结，Typecho虽然轻量但是在操作习惯上感觉还是不如 WordPress，不想折腾的人还是不建议用Typecho，安下心来静静的用WordPress就挺好，在享受社区带来的大量插件和美观的主题的同时，还可以自己安静的写作</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《四月是你的谎言》——没有你的春天，又要来了]]></title>
+        <id>https://sorabug.github.io/april-is-your-lie/</id>
+        <link href="https://sorabug.github.io/april-is-your-lie/">
+        </link>
+        <updated>2020-04-01T05:33:13.000Z</updated>
+        <content type="html"><![CDATA[<p>我喜欢了你十年，却用整个四月，编织了一个我不爱你的谎言。</p>
+<p>再也没有你的四月<br>
+要来了</p>
+<p>温煦的四月终于来了，让人泪目的《四月是你的谎言》又来了。再没有你的四月终于来了，而我们还在B站继续守候你。</p>
+<p>说起来，《四月是你的谎言》的故事很简单：在谎言背后所掩饰的，是爱的救赎与被救赎。每一个陷入情感的痛苦挣扎或生活得不甚如意的人，都可以看一看它。是的，名字言简意赅，却洋溢春天该有的味道。</p>
+<p>看得时候，你会稍稍含着泪，即使是痛苦挣扎也好，活着本身真好。所以，在这个有你的四月，真的是四月天。</p>
+<p>你会羡慕宫园熏与有马公生那种暧昧且来不及告别的纯粹情感，也会心疼这个执着于梦想、挣扎着想要活下去的女孩。她虽然来日无多，却无比勇敢地靠近生命中的那道光，并帮他拭去人生中的阴霾。</p>
+<p>虽然只是一个谎言的开始，确是真实的结束。过程虽然很平淡，没有任何惊奇和突兀，但平淡的叙事，因为音乐的点缀也有了光彩夺目的色调。所有人的人生或许注定如此，平淡却因为感情而变得绚烂。</p>
+<p>所以，故事的最终结果，有马公生是否曾经爱过宫园熏，又将如何忘记或记住熏？这重要吗？或许并不重要。因为再没有你的四月，终究还会再度来临。</p>
+<p>只是，就像《四月是你的谎言》的剧终那样，当重新回到开头的那一幕，我们会蓦然发现，所有你存在过的地方，都留下过春天的气息，温暖如风。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比“我想成为你”更浪漫的告白是《我想吃掉你的胰脏》]]></title>
+        <id>https://sorabug.github.io/253/</id>
+        <link href="https://sorabug.github.io/253/">
+        </link>
+        <updated>2020-02-14T11:35:31.000Z</updated>
+        <content type="html"><![CDATA[<p>短暂而灿烂的樱花，沉默而孤独的春树。</p>
+<p>继你的名字、声之形之后，难得的一部佳作。</p>
+<p>『我想吃掉你的胰脏』</p>
+<p>“只是为了与你相遇，我不断选择，生活至今。”</p>
+<p>“活着，就是和某个人心灵相通，认可某人，喜欢上某人，变得讨厌某人，和某个人在一起会很开心，和某个人牵手，这就是活着。”</p>
+<p>“在她那明快笑容的阴影下所隐藏的东西，在不停侵蚀着她的身体。”</p>
+<p>遇到这部电影，我很开心。</p>
+<p>表面上虽然明快，内心世界黯淡无奇。表面上虽然沉默，内心世界十分多姿多彩。</p>
+<p>这是关于拯救，与被拯救的故事。我们并不是在对立面，而是相互憧憬着对方。</p>
+<p>欣赏着某个人，与某人交谈，爱与被爱这一切构成了我们的存在。</p>
+<p>“我听说啊，樱花会假装凋谢然后再次盛放的。</p>
+<p>假装已经凋零了，其实它们会马上长出新芽，然后沉睡起来，根本没有凋零这回事。只是为了吓吓大家藏起来罢了。然后到了温暖的季节，就再一口气长出花朵来，给大家一个惊喜。”</p>
+<p>只活在自己的世界里，不亦乐乎。而真正重要的东西，眼睛是看不到的。</p>
+<p>随笔，2020.2.14观《我想吃掉你的胰脏》有感</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干掉淘宝和QQ自带WebView核心]]></title>
+        <id>https://sorabug.github.io/webview/</id>
+        <link href="https://sorabug.github.io/webview/">
+        </link>
+        <updated>2020-01-20T13:37:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="引言">引言</h2>
+<p>阿里系的应用因为其臃肿卡顿饱受诟病，究其症结，淘宝、支付宝、闲鱼等阿里系应用都大量应用了WebView<br>
+提到WebView，其在安卓中的应用还是非常广泛的。提到阿里的WebView，就不得不提到UC，UC浏览器在塞班系统上表现无敌，然而在Android上表现平平，在加入阿里系之后完全跻身“毒瘤”行列。<br>
+淘宝、闲鱼、支付宝为什么这么大？在查看data文件夹后不难发现它们都内置了一个30M的UC WebView组件，这个组件相对于目前主流手机的Android Webv（MIUI10系统WebView已经基于Chrome 62），表现是比较差的<br>
+让这些软件直接调用系统WebView，能够降低RAM占用，同时提供更好的浏览体验</p>
+<h2 id="操作">操作</h2>
+<p>以下操作需要获取Root权限</p>
+<h2 id="淘宝uc核心路径">淘宝UC核心路径</h2>
+<pre><code>/data/data/com.taobao.taobao/app_ucmsdk/updates/(数字)/(数字)/lib/libwebviewuc.so
+</code></pre>
+<h2 id="闲鱼uc核心路径">闲鱼UC核心路径</h2>
+<pre><code>/data/data/com.taobao.idlefish/app_ucmsdk/updates/(数字)/(数字)/lib/libwebviewuc.so
+</code></pre>
+<p>以上两者直接删除30M的libwebviewuc.so既可</p>
+<h2 id="支付宝uc核心路径">支付宝UC核心路径</h2>
+<pre><code>/data/data/com.eg.android.AlipayGphone/app_h
+</code></pre>
+<p>将该文件夹权限设置为000（去掉所有权限的勾），然后删除该文件夹下所有文件既可<br>
+腾讯系应用<br>
+对于腾讯系的应用（QQ\微信）其采用的是QQ浏览器X5内核，基于Chrome 57，如果你的手机WebView版本更高，可以考虑关闭X5内核<br>
+在QQ/微信中访问 <a href="">http://debugtbs.qq.com</a><br>
+选择右下角禁用内核既可<br>
+结语 内核检测工具<br>
+<a href="">https://ie.icoa.cn/</a><br>
+<a href="">http://liulanmi.com/</a><br>
+禁用软件自带的WebView可能造成部分不兼容的问题，腾讯系重新打开X5内核、阿里重新覆盖安装一次既可</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写给给即将到来的2020]]></title>
+        <id>https://sorabug.github.io/2020/</id>
+        <link href="https://sorabug.github.io/2020/">
+        </link>
+        <updated>2019-12-31T15:59:59.000Z</updated>
+        <content type="html"><![CDATA[<p>2018年的种种往事历历在目，2020年却已在门口。</p>
+<p>仿佛这2019年，不存在一样。</p>
+<p>2020年，你来吧。</p>
+<p>请手下留情，请多多包涵，请多多照顾。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拼夕夕上买的华强北AirPods2开箱评测]]></title>
+        <id>https://sorabug.github.io/airpods2/</id>
+        <link href="https://sorabug.github.io/airpods2/">
+        </link>
+        <updated>2019-12-28T12:30:59.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="开始">开始</h2>
+<p>这个无线耳机，我是在微信上面看JS们都推荐这个耳机说什么洛达1536芯片（<s>支持三真电量，改名定位，无线充电，原壳反磁，开盖弹窗</s>）反正说这款耳机很便宜，几百元元价格买这款耳机非常有性价比什么的。吹得天花乱坠 神乎其神</p>
+<p>然后我在拼夕夕看到了比微信上面那些JS还便宜而且，也是洛达芯片，然后我便下单买了这一款来自华强北的AirPods2<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/1.jpeg" alt="" loading="lazy"></p>
+<p>怀着忐忑不安的心情等到了货的到来</p>
+<h2 id="开箱">开箱</h2>
+<p>包装盒的外观和正版的也是真假难辨 <s>至少我作为一个普通消费者是看不出来的</s>🤔<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/2.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/3.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/4.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/5.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/6.jpeg" alt="" loading="lazy"></p>
+<p>让我们看看产品本体：看起来做工还是不错的</p>
+<p>重量：</p>
+<p>非常轻，和朋友买的正版比起来感觉不到区别跟正品差不多</p>
+<p>外观：很精致，看起来挺有逼格的🤪<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/7.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/8.jpeg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/9.jpeg" alt="" loading="lazy"></p>
+<p>最后上一张全家福😃<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/10.jpeg" alt="" loading="lazy"></p>
+<p>与正品的AirPods一样的操作逻辑 毕竟高仿<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/11.png" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/12.png" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/13.png" alt="" loading="lazy"></p>
+<p>可以改名定位，的确三真电量<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/14.png" alt="" loading="lazy"></p>
+<p>用不到siri，而且我的是人工智障。就直接上一首下一首吧<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/15.jpeg" alt="" loading="lazy"></p>
+<p>传说中的定位的操作<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/airpods2/16.png" alt="" loading="lazy"><br>
+关于延迟：因为我不打游戏光是听歌看视频我没感受到什么延迟</p>
+<h2 id="体验">体验</h2>
+<p>整体还是挺满意的体验还行，光感很灵敏，该有的也有</p>
+<p>不满意的点：</p>
+<p>戴了1小时后耳朵疼！！！巨疼 可能我的耳朵就是适合入耳式耳机吧，之前戴过的半入耳式耳机全都不舒服；相反的我的朋友就是入耳式耳机不舒服，半入耳式耳机舒服</p>
+<h2 id="总结">总结</h2>
+<p>总体还行，但并不推荐各位购买，要是装b，完全没必要，体验和普通的无线耳机差不多，要真想体验AirPods还是买个正品的吧</p>
+<p>华强北的东西真的那么香吗？我并不这样认为，体验了之后，华强北也并没有传说中的那么神，希望华强北能做出自己的好产品，而不是去模仿别人的，只有造出属于自己的好产品，那样华强北才能真的成为一个不仅仅只有神话的地方</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为爱不顾一切|“诚”意满满的《天气之子》]]></title>
+        <id>https://sorabug.github.io/ttzz/</id>
+        <link href="https://sorabug.github.io/ttzz/">
+        </link>
+        <updated>2019-12-06T13:01:20.000Z</updated>
+        <content type="html"><![CDATA[<p>2016年一部《你的名字》让我认识了新海诚，在那个又哭又笑的夏天，我还看了梁旋、张春的《大鱼海棠》。2019年，我等到了《天气之子》。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/1.jpg" alt="" loading="lazy"><br>
+爱情，从古至今不变的话题，或许每个人心中憧憬的爱情都不一样，或许有的人干脆不相信爱情。百度一下「爱情」可以得到“爱情。简单的理解为，因对某些事物的喜爱所产生的情愫。”这其中的「爱」是指“喜欢达到很深的程度，继而人为之付出的感情。”<br>
+　　百度没有告诉我们“很深的程度”是多少，我们也无从得知到底要为爱“付出”什么。爱情似乎很难琢磨清楚，但却拥有大同小异的剧情。《你的名字》、《大鱼海棠》、《天气之子》三部爱情主题的电影，都有男女主二人，都有从相遇到离别再相遇的爱情主线。基本相同的起伏走势，也同样能让人从心底里笑得开心，哭得彻底。<br>
+　　为什么我认为《天气之子》更独特？<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/2.jpg" alt="" loading="lazy"><br>
+《天气之子》的作画不仅一直在线，甚至有所提升。本次担当作画监督的田村笃，最早是以吉卜力研修生的身份进入动画业界，和米林宏昌是同期生。之后田村作为原画参与《千与千寻》《哈尔的移动城堡》《起风了》等吉卜力作品。（大家所熟知的《你的名字》曾邀请田村来参与原画工作，但由于田村正好有别的工作而推掉了。）<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/3.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/4.jpg" alt="" loading="lazy"><br>
+　　这次《天气之子》中则增加了场景的复杂度，每一个场景都取材于现实，新海诚特意邀请了气象学家一同参与制作，为片中每一片云彩的状态提供专业的修改意见，以确保片中的积雨云、倾盆大雨等特殊气象均有现实依据。全片1700多个镜头，每一帧都经过新海城和全制作组的一一确认。同时新海诚还大胆使用了“同时有两个太阳光源”的特殊光影效果，让主角和所要展现的画面同时呈现在最美的光影之间。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/5.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/6.jpg" alt="" loading="lazy"><br>
+　　天气之子的先天优势是“晴”和“雨”，而新海诚作品的一大特色就是光影的运用非常熟练，所以只是无数次的光影切换，就能让观众有一种“美哭了”的感觉。“天气连接着人们的心情”这种观点，在电影中无时无刻地灌输给观众。（值得一提的是，《天气之子》中关于天空之鱼的片段分镜，新海诚学习了《大鱼海棠》的手法。）<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/7.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/8.jpg" alt="" loading="lazy"></p>
+<p>《天气之子》在处处体现出真实感，不仅仅是作画中各种自然，生活场景的真实感，还有来自都市的真实感。有各种关于钱的暗示或者明示：“这个很赚钱哦”“太感谢了，晴天和雨天不是一个销售额”“所以我要找工作”，各种男主来到东京的生活困难，没有学生证，没有成年，找不到工作，找不到依靠而想“东京真是可怕啊”。有各种社会的真实感，一个离家出走的人在处处被嫌弃，被解雇的少女为了钱要去做女招待，随处可见的女仆在街上卖力的喊“主人要来玩吗”。如果说《你的名字》展现的是东京光鲜亮丽的一面，那《天气之子》便是逆其道而行，新海诚说过，这次所描绘的东京本就是展示它阴暗和杂乱的一面。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/9.jpg" alt="" loading="lazy"><br>
+　　在时间线的设定上，《你的名字》结尾泷和三叶再次相遇于2013年（新海诚透露他们已经订婚了，在电影中帆高再遇泷的奶奶手上是戴着三叶的标志性头绳的，验证了他们这时已经结婚），天气之子时间是在2021年5月（令和三年），这几年日本环境恶化，设定2021年也是为了反映对未来天气的忧虑。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/10.jpg" alt="" loading="lazy"><br>
+　　编剧方面，《天气之子》继承了新海诚一贯的特点，编剧不严谨，剧情较混乱，比如说少男少女逃脱日本警察，警察描写得太过反派，男主不会开保险丝也能开枪之类的，这部电影并没有太早进入帆高和阳菜的爱情这条主线，甚至可以说剧情有一些拖沓，结尾有一些仓促。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/11.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/12.jpg" alt="" loading="lazy"><br>
+　　关于反复出现的《麦田守望者》，如果大家和男主出场脸上的创口贴联想起来，不难发现男主是一个因为家暴和家庭矛盾在家里喘不过气的少年，离家出走来到东京，正处于叛逆期。帆高踩着脚踏车，疯狂追逐那岛上的一缕阳光，最后阳光消失在海上那一场梦，也暗示着帆高决定离家出走和与阳菜的相遇。<br>
+　　好不容易来到东京，却一直在下雨。幸运的是帆高遇到了圭介。在东京漫长的阴雨天里，帆高在圭介的工作室中度过。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/13.jpg" alt="" loading="lazy"><br>
+　　圭介的工作室，从门口用收纳筐装的的酒瓶子和儿童车到屋内的吧台，不难看出在他妻子明日香去世前，这里曾经是一个居酒屋，圭介一家就住在这里。屋内的贴纸，不同标记的身高，孩童的乱写乱画，处处充满了过去温馨生活的气息。圭介在失去妻子，和女儿分别的痛苦之后，逐渐变成了“大叔”，这是几乎每个在社会上行走的人的必经之路。帆高和圭介，分别代表了年少和成熟。<br>
+　　新海诚安插了许多这种对比在电影中，相信很多人都能注意到。<br>
+　　一个普通的家庭房间里，孩子看到了窗外雨中的鱼，告诉了他妈妈，但是妈妈只是一边切着菜一边敷衍回答：“那真好啊。”<br>
+　　警车里，帆高诉说着阳菜成为献身者的事情，而警察认为他“吵死了”“可能需要精神诊断”。<br>
+　　……<br>
+　　各种情节的推进，说明了《天气之子》不止是单纯的爱情片，它真的是一部需要反复品味的动画电影，在动画中得到救赎总是最难，这同时也是新海诚所希望的。<br>
+　　在神宫外苑烟火大会，阳菜对帆高说了这样一段话：<br>
+　　“我好喜欢​，我喜欢这份工作，喜欢当晴女，我总算明白自己的角色了。”<br>
+　　……<br>
+　　“这样的心情也许也不是​也不一定不是也许是没有过。”<br>
+　　“所以，谢谢你，帆高。”<br>
+　　如果帆高不阻止去做女招待的阳菜，两个人的人生一定会擦肩而过。人的生命因相遇而美好，而在相遇的这段距离里，有无数人停下了脚步。新海诚选择少年作为故事的主角，似乎在告诉我们：在成熟的过程中，我们当初的中二，当初的幻想，当初的纯粹还有当初的勇气逐渐丢失，因此而错过了太多。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/14.jpg" alt="" loading="lazy"><br>
+　　生活中有各种各样的原因：帆高不想回去，原因是在家里喘不过气；阳菜虚报年龄工作，原因是不想和弟弟分别……<br>
+　　“只要是一起，姐姐去哪里我都没问题。”<br>
+　　“我不想回去，一起逃走吧！”<br>
+　　在暴风雨的世界里，三个人相互依靠，困难便没什么大不了的。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/15.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/16.jpg" alt="" loading="lazy"><br>
+　　《天气之子》中需要以牺牲阳菜为代价才能结束东京的漫长雨天。与《你的名字》《大鱼海棠》不同，帆高“反叛性”地选择了与阳菜重聚，让东京陷入了经年大雨之中。<br>
+　　在一些观众的心里，帆高的行为是自私的。这是必然，新海诚在接受采访的时候也说过，关于他在结尾情节的选择，一定会存在争议。<br>
+　　谈到拯救世界，《你的名字》是顺便，《大鱼海棠》是解决自己惹的祸，那《天气之子》呢?虽然说阳菜有结束异常天气的能力，但是她没必要去选择，因为这场灾祸本就与她无关。站在男主这边考虑，帆高会为了没有给过他温暖的东京，牺牲掉他自己心中的阳光吗?帆高那句“我只是想，再一次，见到她啊”那种从心底里发出的呐喊，又有多少人产生了共鸣呢。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/17.jpg" alt="" loading="lazy"><br>
+影片最后，镜头更多的给在了人们适应东京被淹没的事实。三年后到处是水的东京，已经有了水上的公共交通，还有因海平面上升做出的建设，新的地理教材出现了，新的居所也出现了，并没有末世的生存景象，人们依旧是普普通通的生活。<br>
+　　人类在不断适应着大自然，帆高和阳菜当初的决定，并不会为影响人类的进程而承担责任。<br>
+　　其实在剧中成年人的眼中，帆高阳菜什么都没做，他们只是改变了自己的世界，仅此而已。<br>
+　　“世界不会因为一直下雨而永远难过，也不会因为​你的牺牲而永远快乐，但是如果我失去了你，我觉得我的一生是充满遗憾的。”<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/18.jpg" alt="" loading="lazy"><br>
+就如同在高潮响起的RADWIMPS的《大丈夫》歌词所述：<br>
+　　♪世界都承载在你小小的肩膀上♪<br>
+　　♪目睹着这一切的我 几乎快要哭出来了♪<br>
+　　……<br>
+　　♪小小的 微不足道的我啊 如今却拥有了那么大的梦想♪<br>
+　　♪想要成为你的依靠 让你安心的依靠♪<br>
+　　♪不止是想要保护你 而是想成为你独一无二的依靠♪<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/19.jpg" alt="" loading="lazy"><br>
+从《你的名字》开始和新海诚合作的RADWIMPS乐队一直很用心的在做好音乐。这次不论是纯音乐还有流行乐都在极为恰当的场景响起，仍然是延续了新海诚的风格，可以说，RADWIMPS给予了《天气之子》一半的灵魂。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/20.jpg" alt="" loading="lazy"><br>
+　　“呐，马上就会放晴哦。”帆高和阳菜的相遇，其实就是他们心中放晴的开始，在这暴风雨的世界“比起晴天，我更需要你”。你给予我的勇气我也只想为你使用。“天气什么的，再这样疯狂下去也无所谓了！”<br>
+　　新海诚曾表示：“《天气之子》是一部非常任性的电影”，虽然与《你的名字。》一样有着灾难的前提设定，但结尾出现了与前作不同的展现。导演用这种浪漫的结尾，渲染了爱情的自私和极致，爱是自私的，它只融彼此绽放，爱情本就容不下第三者，而影片中的第三者，恰好就是他们要“拯救”的世界。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/21.jpg" alt="" loading="lazy"><br>
+　　“气候变化、政治状况、年金的去向。有些事会变好，但变坏的事也很多。如何应对才好呢？轻松跨越这些担忧的人还是存在的吧？我希望是存在的。我想描绘这样的少男少女。”新海诚说。<br>
+　　电影中老警察对须贺圭介说：“只是他有一个无论如何也要拯救的人，为了她可以放弃自己一生，说起来让人很羡慕呢。”圭介在后悔与迷茫的自我提升中，他最终选择支持帆高。圭介有和帆高类似的经历，只身一人来到东京寻求梦想，同样遇见了心爱的人。小说里有一段须贺的独白：“我也曾经有过。明日花，假如能再见你一次，我会怎么做？我一定会不顾一切！”。<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/22.jpg" alt="" loading="lazy"><br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/23.jpg" alt="" loading="lazy"><br>
+　　三年后，一切都回到了正轨，在田端站南口的人行道上，帆高阳菜再次相遇，而这一次，新海诚相信了爱情，不再有擦肩而过，取代的是微笑，是拥抱，更多的，是溢出屏幕的爱：<br>
+　　“阳菜！”  <br>
+　　“帆高？帆高！”<br>
+　　“我们一定会，没事的！”<br>
+<img src="https://cdn.jsdelivr.net/gh/sorabug/PicGo/ttzz/24.jpg" alt="" loading="lazy"><br>
+　　世界有很多规则，但爱没有。为了爱，你还可以不顾一切吗?<br>
+　　这是充满任性的自信之作，这是“诚”意满满的，最完美的《天气之子》。</p>
 ]]></content>
     </entry>
 </feed>
