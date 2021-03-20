@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sorabug.github.io</id>
     <title>Sora的小站</title>
-    <updated>2021-03-20T01:57:03.835Z</updated>
+    <updated>2021-03-20T02:07:48.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sorabug.github.io"/>
     <link rel="self" href="https://sorabug.github.io/atom.xml"/>
@@ -18,8 +18,9 @@
         <updated>2020-12-31T15:59:59.000Z</updated>
         <content type="html"><![CDATA[<h2 id="前言">前言</h2>
 <p>似乎2020过得异常的迅速，经历了疫情、高考、大一的迷惘，慌慌张张的到了新的一年</p>
-<pre><code class="language-markdown">&gt;2020年对我来说是一扇门，我相信走完2020年最后一刻，踏过去迎接是全新的未来以及自我！
-</code></pre>
+<blockquote>
+<p>2020年对我来说是一扇门，我相信走完2020年最后一刻，踏过去迎接是全新的未来以及自我！</p>
+</blockquote>
 <h3 id="疫情">疫情</h3>
 <p>2020年新年后就是一个王炸——新冠疫情，到今为止它依然还在肆虐全球人民生命，难以想象死于疫情之下多少人，每天看到冷冰冰的数字，曾经是那火热的身躯，即使在2020年医疗高科技时代，对新型的病情手无缚鸡之力毫无办法，所以人要对未知的事物要充满恐惧之心。</p>
 <p>第二件就是从疫情看出国家抗疫力度和效率，说实话到目前为止，中国依然是全球做得最好的，这让我不得不佩服国家几个月管理十几亿人人口做好疫情防备魄力，再看别的国家简直连抄作业都不会。虽然国内疫情不算严重，不过因为疫情在很多事情依然不方便，希望新年后的疫情能够消失吧！</p>
